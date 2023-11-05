@@ -1,2 +1,2 @@
-# -Desafio-Classificador-de-n-vel-de-Her-i
+# -Desafio-Classificador-de-nivel-de-Heroi
 Desafio prático no bootcamp DIO de lógica de Programação
